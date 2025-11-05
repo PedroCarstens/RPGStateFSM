@@ -3,6 +3,7 @@ import java.util.List;
 
 //================================================================
 // Classe principal que executa a simulação
+//stateMachine
 //================================================================
 public class Main {
 
